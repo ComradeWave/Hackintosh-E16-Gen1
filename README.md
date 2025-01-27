@@ -15,3 +15,4 @@ WHAT WORKS:
 
 All of this has been tested on SEQUOIA
 
+## Feel free to reach out to help the project!
