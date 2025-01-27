@@ -10,7 +10,7 @@ WHAT WORKS:
 - [x] Hardware acceleration (with Nootedred)
 - [ ] HDMI (untested)
 - [x] Usb ports, although untested
-- [ ] Touchpad
+- [ ] Touchpad (probably I need to change it to VoodooI2C)
 - [x] Trackpoint
 
 All of this has been tested on SEQUOIA
